@@ -44,6 +44,10 @@ You can run the code on any Unix-based operating system (e.g., Ubuntu or macOS).
 
 Open the repository using Visual Studio Code and install the ["Machine Learning School"](https://marketplace.visualstudio.com/items?itemName=tideily.mlschool) extension. If you are using WSL, you need to install the extension on the WSL environment.
 
+```sh
+code --install-extension tideily.mlschoolP
+```
+
 Once installed, this extension will allow you to navigate the documentation, run the pipelines, and deploy the model directly from Visual Studio Code.
 
 ## Contributing
